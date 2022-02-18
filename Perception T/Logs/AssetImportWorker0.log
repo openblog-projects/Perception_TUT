@@ -158,3 +158,487 @@ System memory in use after: 121,0 MB.
 Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 3366.
 Total: 11,407372 ms (FindLiveObjects: 0,698682 ms CreateObjectMapping: 0,436985 ms MarkObjects: 6,961780 ms  DeleteObjects: 3,305878 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,822 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2882 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122,7 MB.
+System memory in use after: 121,0 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 3370.
+Total: 12,150852 ms (FindLiveObjects: 0,648104 ms CreateObjectMapping: 0,339189 ms MarkObjects: 7,926007 ms  DeleteObjects: 3,234381 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,020 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2882 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122,7 MB.
+System memory in use after: 121,0 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 3374.
+Total: 11,430292 ms (FindLiveObjects: 1,105010 ms CreateObjectMapping: 0,493256 ms MarkObjects: 6,755374 ms  DeleteObjects: 3,072244 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4,325 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2882 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122,7 MB.
+System memory in use after: 121,0 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 3378.
+Total: 13,138311 ms (FindLiveObjects: 0,737808 ms CreateObjectMapping: 0,600369 ms MarkObjects: 7,758787 ms  DeleteObjects: 4,037864 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3,155 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2882 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122,7 MB.
+System memory in use after: 121,0 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 3382.
+Total: 11,266636 ms (FindLiveObjects: 0,781261 ms CreateObjectMapping: 0,267484 ms MarkObjects: 6,648083 ms  DeleteObjects: 3,566115 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5032,493549 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/candy_minipralines_lindt.fbx
+  artifactKey: Guid(c87e9d4bea5624bd5a7a8ed6953b730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/candy_minipralines_lindt.fbx using Guid(c87e9d4bea5624bd5a7a8ed6953b730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b939ea892eab36d46d6b2e28dc8c5b7') in 0,788202 seconds
+  Import took 0,798507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000328 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/drink_whippingcream_lucerne.fbx
+  artifactKey: Guid(330cfa10f0861444ab2a9661fbd35f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/drink_whippingcream_lucerne.fbx using Guid(330cfa10f0861444ab2a9661fbd35f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e5337e98c02ef7de01ff883d48cf69d') in 0,026565 seconds
+  Import took 0,034828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000313 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/drink_greentea_itoen.fbx
+  artifactKey: Guid(fe91d17871c47449592990394aeaa113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/drink_greentea_itoen.fbx using Guid(fe91d17871c47449592990394aeaa113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50fb9642da94d1a7dfbca3506e8862de') in 0,019785 seconds
+  Import took 0,027751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000200 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/cleaning_snuggle_henkel.fbx
+  artifactKey: Guid(4b077586c8e5c43dba5b2fd32f06ad80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/cleaning_snuggle_henkel.fbx using Guid(4b077586c8e5c43dba5b2fd32f06ad80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edaa9992960bca4eb689bf5b54e4ba5') in 0,019268 seconds
+  Import took 0,028352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000205 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/pasta_lasagne_barilla.fbx
+  artifactKey: Guid(e17205eb9c0114c4ba6883ced93a7a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/pasta_lasagne_barilla.fbx using Guid(e17205eb9c0114c4ba6883ced93a7a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425298c531ab6317da2fdccacb55c5b4') in 0,017749 seconds
+  Import took 0,027578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000260 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/craft_yarn_caron_01.fbx
+  artifactKey: Guid(9297f66ee242a4e7f8911400b6703c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/craft_yarn_caron_01.fbx using Guid(9297f66ee242a4e7f8911400b6703c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce45964d62c93b0178c5afea3eaf03eb') in 0,018858 seconds
+  Import took 0,028968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000296 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/snack_granolabar_naturevalley.fbx
+  artifactKey: Guid(4d6eb8c26c82c43a0b6a5f3c1daa218d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/snack_granolabar_naturevalley.fbx using Guid(4d6eb8c26c82c43a0b6a5f3c1daa218d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2deecf36e02d55fd11e61fcb65c4ac') in 0,023469 seconds
+  Import took 0,033465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000222 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/cereal_cheerios_honeynut.fbx
+  artifactKey: Guid(d8ed6236e81cb4e9196174483facc924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/cereal_cheerios_honeynut.fbx using Guid(d8ed6236e81cb4e9196174483facc924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22de82ec2f98341951098a2ea04acd5') in 0,028364 seconds
+  Import took 0,039376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000273 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/snack_biscotti_ghiott_01.fbx
+  artifactKey: Guid(fb5b2d9b3f05b4e9c85ebb64e9be29b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/snack_biscotti_ghiott_01.fbx using Guid(fb5b2d9b3f05b4e9c85ebb64e9be29b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d80f81141b204a6507fbbd38d1989c') in 0,021309 seconds
+  Import took 0,033751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000444 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/lotion_essentially_nivea.fbx
+  artifactKey: Guid(8c53aeed91f824dfe99d2d0bca92710e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Models/lotion_essentially_nivea.fbx using Guid(8c53aeed91f824dfe99d2d0bca92710e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b295864ce28b3c19fb317b4075111c50') in 0,019388 seconds
+  Import took 0,029014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5,600938 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/candy_minipralines_lindt.mat
+  artifactKey: Guid(49604fffc2ec445dd922c69087c049aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/candy_minipralines_lindt.mat using Guid(49604fffc2ec445dd922c69087c049aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a54bb37f899034b3300f7a5b1b98978') in 0,033974 seconds
+  Import took 0,043465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000456 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/craft_yarn_caron_01.mat
+  artifactKey: Guid(51b4d80673c7d477d8a0b29e605ec547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/craft_yarn_caron_01.mat using Guid(51b4d80673c7d477d8a0b29e605ec547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0e4bcff436fd78ba7bbf65b724f063') in 0,011478 seconds
+  Import took 0,019621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,001214 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/drink_greentea_itoen.mat
+  artifactKey: Guid(9cec5ecfb1f20454cb1390128a7fba5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/drink_greentea_itoen.mat using Guid(9cec5ecfb1f20454cb1390128a7fba5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aacff5b2fcb33aa714ac1f5fc0f8d7b') in 0,012399 seconds
+  Import took 0,023213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000282 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/cleaning_snuggle_henkel.mat
+  artifactKey: Guid(9c23fef3d4d0f4765bf85a6257bc409f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/cleaning_snuggle_henkel.mat using Guid(9c23fef3d4d0f4765bf85a6257bc409f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab62e8f6e6ca2a79a4827594de16b60') in 0,011939 seconds
+  Import took 0,019931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000249 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/lotion_essentially_nivea.mat
+  artifactKey: Guid(1e22c90fb47c149939b0bf0b0462e664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/lotion_essentially_nivea.mat using Guid(1e22c90fb47c149939b0bf0b0462e664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c40995821251ca488f068a081535af44') in 0,012248 seconds
+  Import took 0,021047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000258 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/cereal_cheerios_honeynut.mat
+  artifactKey: Guid(c2fe62624e1e34504997b73e214ecc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/cereal_cheerios_honeynut.mat using Guid(c2fe62624e1e34504997b73e214ecc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf607527a976c3a6a7079020ab112996') in 0,017771 seconds
+  Import took 0,025410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000264 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/snack_granolabar_naturevalley.mat
+  artifactKey: Guid(a2a09f10bb0d94ed5bf96aa070d097e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/snack_granolabar_naturevalley.mat using Guid(a2a09f10bb0d94ed5bf96aa070d097e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3984a26d9822acdfe1ae821deda4845f') in 0,012493 seconds
+  Import took 0,022137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000216 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/snack_biscotti_ghiott_01.mat
+  artifactKey: Guid(4f9e42fc6bc15429bb07a4098ee8ace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/snack_biscotti_ghiott_01.mat using Guid(4f9e42fc6bc15429bb07a4098ee8ace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585c57126a9f001b98442b72d1c690a2') in 0,011844 seconds
+  Import took 0,019114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000288 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/pasta_lasagne_barilla.mat
+  artifactKey: Guid(e8e3e00aa865d40baaa4102d3582757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/pasta_lasagne_barilla.mat using Guid(e8e3e00aa865d40baaa4102d3582757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127aa2e2628f7ed072a6141c0d5c83d5') in 0,017986 seconds
+  Import took 0,026781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000270 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/drink_whippingcream_lucerne.mat
+  artifactKey: Guid(355f202f240a54f489fe6ad45251c774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Materials/drink_whippingcream_lucerne.mat using Guid(355f202f240a54f489fe6ad45251c774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a29d41be0f7b91e500c6abbaecf2e04') in 0,014592 seconds
+  Import took 0,022092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3,607151 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/candy_minipralines_lindt.png
+  artifactKey: Guid(0759f164f3b85454ca34c0a4342edf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/candy_minipralines_lindt.png using Guid(0759f164f3b85454ca34c0a4342edf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e71be4bc53b7474aca8927ce6818cdf') in 0,019272 seconds
+  Import took 0,028305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000315 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/craft_yarn_caron_01.png
+  artifactKey: Guid(47180261aab6d479eb59c3553e4a8f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/craft_yarn_caron_01.png using Guid(47180261aab6d479eb59c3553e4a8f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22dbfe6cdcb9c6976b1f57b25d743eef') in 0,006831 seconds
+  Import took 0,013131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000310 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/cereal_cheerios_honeynut.png
+  artifactKey: Guid(08bc8ed98c9804038844c88f2e1a92d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/cereal_cheerios_honeynut.png using Guid(08bc8ed98c9804038844c88f2e1a92d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f822914eb9be9c9bbe2ff4199511f3cb') in 0,016403 seconds
+  Import took 0,023881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000225 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/cleaning_snuggle_henkel.png
+  artifactKey: Guid(a471ed6abc4b34ca0bbde0f7681a940f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/cleaning_snuggle_henkel.png using Guid(a471ed6abc4b34ca0bbde0f7681a940f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d90719276056b121a106ddc6d7e37d') in 0,007454 seconds
+  Import took 0,018961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000263 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/drink_whippingcream_lucerne.png
+  artifactKey: Guid(8b523476b0e4a4da2ac7099a1c2a7462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/drink_whippingcream_lucerne.png using Guid(8b523476b0e4a4da2ac7099a1c2a7462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1bdedc15db59c998c6bfe657701f65') in 0,008545 seconds
+  Import took 0,016691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000201 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/snack_granolabar_naturevalley.png
+  artifactKey: Guid(c7f5f5c5732cc4e36a63163190276bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/snack_granolabar_naturevalley.png using Guid(c7f5f5c5732cc4e36a63163190276bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64bac2556a3026b4b051ccc22f2f2e9') in 0,007003 seconds
+  Import took 0,016112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000195 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/snack_biscotti_ghiott_01.png
+  artifactKey: Guid(472b4b1a8ee9b48f0b78e65db8b862e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/snack_biscotti_ghiott_01.png using Guid(472b4b1a8ee9b48f0b78e65db8b862e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969bbc02f100d0de11599d0b974540f1') in 0,015427 seconds
+  Import took 0,022607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000203 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/drink_greentea_itoen.png
+  artifactKey: Guid(9a2742391d4624347aad172bcc5e7691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/drink_greentea_itoen.png using Guid(9a2742391d4624347aad172bcc5e7691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154c6febac0b88ae31e03312948e2e2d') in 0,009425 seconds
+  Import took 0,018463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000506 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/lotion_essentially_nivea.png
+  artifactKey: Guid(7fc693649da614d44b9fdff28c0267e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/lotion_essentially_nivea.png using Guid(7fc693649da614d44b9fdff28c0267e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b91c8b894eb5b0a4ee3248dac2e2d0') in 0,007797 seconds
+  Import took 0,016911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000226 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/pasta_lasagne_barilla.png
+  artifactKey: Guid(ae0b56efeb8b144b3beea7cdd5006bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Textures/pasta_lasagne_barilla.png using Guid(ae0b56efeb8b144b3beea7cdd5006bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e343c878d447e5d5679d715ce3ad625') in 0,007735 seconds
+  Import took 0,016319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11,739504 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs
+  artifactKey: Guid(70184ebb46f9640deb65c478a0eaf3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs using Guid(70184ebb46f9640deb65c478a0eaf3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8802b3a07ce2561aa8b87ada3049c775') in 0,001199 seconds
+  Import took 0,012125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,111883 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_01.prefab
+  artifactKey: Guid(7dd7f1e1f85b04c908d48829d22f4f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_01.prefab using Guid(7dd7f1e1f85b04c908d48829d22f4f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c979ece0600787f9758b4b918f97882e') in 0,084919 seconds
+  Import took 0,094621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000273 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Sphere_quad_01.prefab
+  artifactKey: Guid(b65643442652f4e5cac1ba8a138fe11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Sphere_quad_01.prefab using Guid(b65643442652f4e5cac1ba8a138fe11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '880598d559e0618828e20365edd032fd') in 0,011160 seconds
+  Import took 0,018581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000265 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_01.prefab
+  artifactKey: Guid(7dd7f1e1f85b04c908d48829d22f4f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_01.prefab using Guid(7dd7f1e1f85b04c908d48829d22f4f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c979ece0600787f9758b4b918f97882e') in 0,012057 seconds
+  Import took 0,021098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000278 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_hardedge_01.prefab
+  artifactKey: Guid(1279cedc9a7594696816ed4895a5a0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_hardedge_01.prefab using Guid(1279cedc9a7594696816ed4895a5a0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0084974ab6f2dec9097941f681cbadd') in 0,009532 seconds
+  Import took 0,018914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000200 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_02.prefab
+  artifactKey: Guid(95c2ed58ec23643a698c890a152f30c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_02.prefab using Guid(95c2ed58ec23643a698c890a152f30c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73bd4f7a6124b265d099037db42ff25e') in 0,009462 seconds
+  Import took 0,018805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000275 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_roundedge_01.prefab
+  artifactKey: Guid(0f54a45900eb3485eae0701715746760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_roundedge_01.prefab using Guid(0f54a45900eb3485eae0701715746760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f12b7a04d4b101c6b97d6456bee8d1') in 0,009856 seconds
+  Import took 0,019300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000491 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_roundedge_01.prefab
+  artifactKey: Guid(a75f34e297d0d41939b1f730f6556b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_roundedge_01.prefab using Guid(a75f34e297d0d41939b1f730f6556b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7c708332e9e2fca5a75b83d1cacbbc') in 0,010448 seconds
+  Import took 0,017778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000341 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_roundedge_02.prefab
+  artifactKey: Guid(2bda33803207144f1b850250904cd924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_roundedge_02.prefab using Guid(2bda33803207144f1b850250904cd924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01ed715f2704552da612d4135dc4ac16') in 0,011348 seconds
+  Import took 0,019460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000249 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_roundedge_02.prefab
+  artifactKey: Guid(9d09d824be2fe4617b33bb31e9eeca96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_roundedge_02.prefab using Guid(9d09d824be2fe4617b33bb31e9eeca96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f19a9c96bd7d46111a9a471c2440252') in 0,014811 seconds
+  Import took 0,022804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000216 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_hardedge_02.prefab
+  artifactKey: Guid(a3a4f0ca1fc1e47608346e3ebad64473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_hardedge_02.prefab using Guid(a3a4f0ca1fc1e47608346e3ebad64473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '749e7cbd89ff1679aa9f83964f402879') in 0,014056 seconds
+  Import took 0,026154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000220 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Sphere_quad_02.prefab
+  artifactKey: Guid(02d0dd79e02e54b0497c611f55f79aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Sphere_quad_02.prefab using Guid(02d0dd79e02e54b0497c611f55f79aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b34ef60e1bf997c3fcd3bb56d1146d34') in 0,011756 seconds
+  Import took 0,022792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14,669916 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Textures/Melon
+  artifactKey: Guid(bfb254c6747ce45059352d6c058bae82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Textures/Melon using Guid(bfb254c6747ce45059352d6c058bae82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dd1eda17fbd1b8f4244afb6b991f4b') in 0,001053 seconds
+  Import took 0,009777 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4,139 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2882 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126,9 MB.
+System memory in use after: 125,2 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 3470.
+Total: 11,245024 ms (FindLiveObjects: 0,722034 ms CreateObjectMapping: 0,365520 ms MarkObjects: 7,791611 ms  DeleteObjects: 2,362574 ms)
+
